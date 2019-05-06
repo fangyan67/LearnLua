@@ -1,5 +1,3 @@
-require "Common/functions"
-
 print("----------- Chapter6 Log -----------")
 
 -----------6.0-------------
