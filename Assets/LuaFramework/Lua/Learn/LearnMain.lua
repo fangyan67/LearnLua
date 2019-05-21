@@ -1,5 +1,5 @@
 LearnMain = {}
-local ChapterCount = 11
+local ChapterCount = 12
 
 --主入口函数。从这里开始lua逻辑
 function LearnMain()

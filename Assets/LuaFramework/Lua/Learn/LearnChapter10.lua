@@ -86,7 +86,7 @@ function insert(index, value)
 		list[#list+1] = value
 	end
 end
-
+--[[
 function all words()
 	local line = io.read()
 	local pos = 1
@@ -140,3 +140,5 @@ for i = 1, MAXGEN do
 	io.write(nextword, " ")
 	w1 = w2; w2 = nextword
 end
+
+--]]
