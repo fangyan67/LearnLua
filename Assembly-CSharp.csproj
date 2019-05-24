@@ -60,6 +60,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\LearnButtonBuilder.cs" />
+    <Compile Include="Assets\LearnMain.cs" />
     <Compile Include="Assets\LuaFramework\Scripts\Common\LuaBehaviour.cs" />
     <Compile Include="Assets\LuaFramework\Scripts\Common\LuaLoader.cs" />
     <Compile Include="Assets\LuaFramework\Scripts\ConstDefine\AppConst.cs" />
@@ -79,7 +81,6 @@
     <Compile Include="Assets\LuaFramework\Scripts\Framework\Interfaces\IManager.cs" />
     <Compile Include="Assets\LuaFramework\Scripts\Framework\Interfaces\IMessage.cs" />
     <Compile Include="Assets\LuaFramework\Scripts\Framework\Interfaces\IView.cs" />
-    <Compile Include="Assets\LuaFramework\Scripts\LearnMain.cs" />
     <Compile Include="Assets\LuaFramework\Scripts\Main.cs" />
     <Compile Include="Assets\LuaFramework\Scripts\Manager\GameManager.cs" />
     <Compile Include="Assets\LuaFramework\Scripts\Manager\Interface\ITimerBehaviour.cs" />
